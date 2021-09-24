@@ -66,4 +66,7 @@ Na parte de CSS, você é livre para utilizar qualquer pré-processador também,
 
 Sobre task manager, bundler e similares, fica à vontade de utilizar o que achar necessário, apenas pedimos que você adicione instruções detalhadas sobre como fazer funcionar a aplicação.
 
+## Entrega
+Enviar para seu repositório e nos disponbilizar o link onde tenhamos acesso para clonarmos.
+
 Boa sorte! :wink:
