@@ -33,6 +33,7 @@ O teste para o resultado de performance será executado em uma janela anônima.
 - Funcional em outros navegadores além do Chrome
 - Integrar formulário com a API de contato
   - Antes de postar seu formulário, verifique se o e-mail digitado já possui cadastro através da API, para isso utilize o e-mail `test@frontend.com` como e-mail fictício para simular a existencia e válidar o seu formulário.
+  - Se o e-mail não existir, apenas exiba a mensagem de que o e-mail foi inserido com sucesso.
   - Realizar tratamento de retorno para o usuário.
 
 ### Sobre a API
