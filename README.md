@@ -5,7 +5,7 @@ Este teste busca avaliar quesitos técnicos de nossos queridos canditados, entã
 O objetivo é criar uma landing page seguindo o layout desta url: https://raw.githubusercontent.com/voatec/voa-frontend/main/materials/images/landing.png
 
 ### Materiais
-Todas as imagens e fonts utilizadas na landing page estão disponíveis nesse mesmo repositório na branch __*material*__ na branch `main`
+Todas as imagens e fonts utilizadas na landing page estão disponíveis nesse mesmo repositório na pasta __*materials*__ na branch `main`
 
 > 💡️ **Dica**
 >
